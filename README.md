@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/20575135/212789245-05180dee-fe84-4b73-94d9-deb5103cde13.png)
 # phasmophilia
+![Знімок екрана (64)](https://user-images.githubusercontent.com/20575135/216049308-7d414f69-b0b8-4819-929a-617410689a96.png)
 
 Хорор гра розроблена з допомогою Unreal Engine 4 та його системи графічного програмування Blueprints. 
 
